@@ -203,3 +203,6 @@ You are doubted even before you'e started.
 * Feedback in inappropriate context
   * People shutdown since they don't know how to react
   * People may be completely uncomfortable or offended
+
+## Summary
+The more you know about how people receive information, the more you know about how to flex your style of communication to the situation you're in, the more success you'll have in getting your message across.  People are naturally emotional, so effective communication goes from the head, to the heart, back to the head.  After you've connected to people emotionally, you can appeal to them logically.
