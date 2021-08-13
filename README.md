@@ -176,3 +176,30 @@ You are doubted even before you'e started.
 * Stick to specific facts and results (or lack thereof)
   * de-personalize situation
   * short, concise message
+
+### Virtual Teams
+* Email is the primary means of organized communication
+  * Structured geographical operating rhythm
+  * Avoid culture specific humor, jokes, idioms, etc.
+  * Focus on business and facts
+* Forgiveness is present (give people the benefit of the doubt)
+  * Inference from email (ideas in between words)
+  * Pinpoint intentions if miscommunication occurs
+* Overcommunicate to clarify and ensure everyone is on the same page
+  * Ensure that you're understanding each other; this make take time
+* Intentionally positive
+  * People will want to listen
+  * Humor is a risky place (worst case it is offensive)
+* Offer suggestions not critiques
+  * Avoid criticisms and derogatory terms
+    * Judgmental language:
+      * "I don't get it"
+      * "You should think about this"
+      * "You need to do that"
+  * Avoid providing feedback in public
+
+### Communication Breakdown
+* Eliciting ideas in a public forum
+* Feedback in inappropriate context
+  * People shutdown since they don't know how to react
+  * People may be completely uncomfortable or offended
