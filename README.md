@@ -145,3 +145,34 @@ Knowing when to be silent or not.
 
 * Beginning, middle, end -- What I planned on doing, what I did, and the outcome
 * Experience -- examples of what went well, what didn't go well
+
+## Management and Communication Under Pressure
+* Set specific, clear expectations with proper level of detail
+* Style of communication drives corporate culture
+* Effective leaders and communicators make people feel involved and engaged
+
+### Owning the Responsibility of Communication
+* Delegation of communication is *not* appropriate
+
+### Communication Under Pressure
+A proper leader's skillset:
+* Confident with leadership
+* Relational; they have to get along with people
+* Professional presentation of the company's image/message
+
+### Crisis Situation
+* Leaders take charge and represent the company
+  * Acknowledge, own, and solve the problem
+* People want to know the problem is under control
+* Great company's can respond/perform well in terrible situations
+
+### Skeptical Audience
+You are doubted even before you'e started.
+* High-level of confidence and feel comfortable as the subject matter expert
+  * If possible have someone else introduce you to build your credibility
+
+### Delivering Bad News
+* Keep personal dignity intact
+* Stick to specific facts and results (or lack thereof)
+  * de-personalize situation
+  * short, concise message
